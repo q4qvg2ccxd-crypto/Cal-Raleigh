@@ -1,4 +1,4 @@
-# Cal-Raleigh Expected Statistics
+# Cal-Raleigh 
 |  | xBA | xSLG | wOBA | xwOBA | xwOBAcon |
 |---|---|---|---|---|---|
 | 2025 | .231 | .547 | .392 | .371 | .470 | 
